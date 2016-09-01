@@ -1,2 +1,2 @@
 # linkedin-pdf-parser-api
-Example API that converts AZIP -> JSON on the fly.
+Example API that converts a ZIP -> JSON on the fly.
